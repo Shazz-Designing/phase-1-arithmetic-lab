@@ -4,4 +4,6 @@ let num2 = 2;
 
 let random = Math.floor(Math.random() * 100) + 1;
 
-
+let mod = num3 % num4;
+let num3 = 10;
+let num4 = 6;
